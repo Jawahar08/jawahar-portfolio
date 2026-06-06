@@ -4,7 +4,7 @@ A responsive personal portfolio website showcasing my skills, projects, technica
 
 ## Live Website
 
-[View Portfolio]([https://jawahar08.github.io/jawahar-portfolio/])
+[View Portfolio](https://jawahar08.github.io/jawahar-portfolio/)
 
 ## Features
 
